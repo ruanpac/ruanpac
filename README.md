@@ -2,8 +2,8 @@
 
 **Desenvolvedor de Software · Automação & IA**
 
-Estudo Ciência da Computação na UNIMAR (bolsista integral) e sou formado em Exatas pela Etec. Gosto de automatizar processos manuais, hoje trabalho bastante com n8n conectando sistemas e testando IA em análise de documentos e imagens.
-Também tenho experiência do lado comercial: montei e geri uma loja na Shopify, cuidei de catálogo e checkout, rodei campanhas no Facebook Ads e no TikTok Ads e já vendi produtos digitais pela Kiwify e pela Hotmart.
+Estudante de Ciência da Computação na UNIMAR, bolsista integral, e formado em Exatas pela Etec. Tenho experiência com Python, automação de processos, n8n, APIs, Docker, Git/GitHub e ferramentas de IA, principalmente em projetos de análise de imagens e documentos.
+Também tenho experiência com e-commerce e marketing digital, incluindo Shopify, Facebook Ads, TikTok Ads, Kiwify e Hotmart. Gosto de aprender na prática, desenvolver projetos e transformar processos manuais em soluções automatizadas e eficientes.
 
 Buscando estágio em Desenvolvimento, Automação, IA ou E-commerce.
 
